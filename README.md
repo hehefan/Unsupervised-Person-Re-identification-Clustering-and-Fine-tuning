@@ -9,7 +9,7 @@ pip install --user keras
 pip install --user sklearn
 ```
 ## Baseline (Fine-tuned ResNet-50)
-We provide fine-tuned models as as follows:
+We provide the fine-tuned models as follows:
 1. [Duke](https://drive.google.com/uc?export=download&id=0B7NctsDC2gmLSVlGY01XTDd6LUk)
 2. [Market](https://drive.google.com/uc?export=download&id=0B7NctsDC2gmLellBSmptRUFlWkU)
 3. [CUHK03](https://drive.google.com/uc?export=download&id=0B7NctsDC2gmLbEZua2RHczBtSWc)
@@ -18,4 +18,5 @@ We provide fine-tuned models as as follows:
 6. [Market + CUHK03](https://drive.google.com/uc?export=download&id=0B7NctsDC2gmLc0NHd2tvdVUxNDQ)
 
 ## Progressive Unsupervised Learning (PUL)
-![](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning/blob/master/images/spl.jpg =150)
+![](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning/blob/master/images/demo.jpg)
+Rename the above fine-tuned models as 0.ckpt, which are the original models for PUL.
