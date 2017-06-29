@@ -18,4 +18,4 @@ We provide fine-tuned models as as follows:
 6. [Market + CUHK03](https://drive.google.com/uc?export=download&id=0B7NctsDC2gmLc0NHd2tvdVUxNDQ)
 
 ## Progressive Unsupervised Learning (PUL)
-![](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning/blob/master/images/spl.jpg)
+![](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning/blob/master/images/spl.jpg =150)
