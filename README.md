@@ -26,9 +26,9 @@ To reappear Duke -> Market:
 If you find this code useful, consider citing our work:
 ```
 @article{fan17unsupervised,
-  author    = {Hehe Fan and Liang Zheng and Yi Yang},
+  author    = {Hehe Fan and Liang Zheng and Chenggang Yan and Yi Yang},
   title     = {Unsupervised Person Re-identification: Clustering and Fine-tuning},
-  journal   = {arXiv preprint arXiv:1705.10444},
-  year      = {2017}
+  journal   = {{TOMCCAP}},
+  year      = {2018}
 }
 ```
