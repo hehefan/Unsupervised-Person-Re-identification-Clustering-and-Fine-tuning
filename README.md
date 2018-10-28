@@ -25,10 +25,13 @@ To reappear Duke -> Market:
 
 If you find this code useful, consider citing our work:
 ```
-@article{fan17unsupervised,
+@article{fan18unsupervisedreid,
   author    = {Hehe Fan and Liang Zheng and Chenggang Yan and Yi Yang},
   title     = {Unsupervised Person Re-identification: Clustering and Fine-tuning},
-  journal   = {{TOMCCAP}},
-  year      = {2018}
+  journal   = {{ACM} Transactions on Multimedia Computing, Communications, and Applications {TOMCCAP}},
+  volume    = {14},
+  number    = {4},
+  year      = {2018},
+  doi       = {10.1145/3243316}
 }
 ```
