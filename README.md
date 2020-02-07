@@ -28,9 +28,10 @@ If you find this code useful, consider citing our work:
 @article{fan18unsupervisedreid,
   author    = {Hehe Fan and Liang Zheng and Chenggang Yan and Yi Yang},
   title     = {Unsupervised Person Re-identification: Clustering and Fine-tuning},
-  journal   = {{ACM} Transactions on Multimedia Computing, Communications, and Applications {TOMCCAP}},
+  journal   = {{ACM} Transactions on Multimedia Computing, Communications, and Applications {TOMM}},
   volume    = {14},
   number    = {4},
+  pages     = {83:1--83:18},
   year      = {2018},
   doi       = {10.1145/3243316}
 }
